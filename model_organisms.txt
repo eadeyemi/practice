@@ -1,1 +1,4 @@
 C elegans is a very practical model for aging studies
+
+the animal has a very comparable amount of genes with humans even though 
+it has a significantly smaller genome
