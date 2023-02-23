@@ -2,3 +2,11 @@ C elegans is a very practical model for aging studies
 
 the animal has a very comparable amount of genes with humans even though 
 it has a significantly smaller genome
+
+C.elegans (Caenorhabditis elegans) is a free-living, transparent nematode 
+(roundworm), about 1 mm in length, which naturally lives in temperate soil 
+environments. 
+C. elegans is a self-fertilizing hermaphrodite that has a temperature sensitive
+life span. They are also inexpensive to maintain and can be grown in 
+vast quantities in the lab. Due to these characteristics, C. elegans has 
+emerged as one of the premiere model systems for aging. 
